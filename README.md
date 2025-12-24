@@ -1,2 +1,2 @@
-# p5
-program 5
+# p5g1
+program 5g1
